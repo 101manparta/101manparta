@@ -46,8 +46,6 @@ I build real DevOps labs every day to improve my skills 😎
 ![terraform](https://skillicons.dev/icons?i=terraform)
 ![jenkins](https://skillicons.dev/icons?i=jenkins)
 ![linux](https://skillicons.dev/icons?i=linux)
-![bash](https://skillicons.dev/icons?i=bash)
-![python](https://skillicons.dev/icons?i=python)
 ![git](https://skillicons.dev/icons?i=git)
 ![github](https://skillicons.dev/icons?i=github)
 
